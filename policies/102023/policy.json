@@ -1,0 +1,56 @@
+{
+    "course/102023": {
+        "cert_html_view_enabled": true,
+        "course_image": "python.png",
+        "discussion_topics": {
+            "General": {
+                "id": "course"
+            }
+        },
+        "display_name": "Intoduction to the developing with python",
+        "end": "2023-11-30T03:30:00Z",
+        "enrollment_end": "2023-10-24T01:00:00Z",
+        "enrollment_start": "2023-10-11T00:00:00Z",
+        "graceperiod": "",
+        "instructor_info": {
+            "instructors": []
+        },
+        "language": "en",
+        "learning_info": [],
+        "minimum_grade_credit": 0.8,
+        "start": "2023-10-11T00:00:00Z",
+        "tabs": [
+            {
+                "course_staff_only": false,
+                "name": "Home",
+                "type": "course_info"
+            },
+            {
+                "course_staff_only": false,
+                "name": "Course",
+                "type": "courseware"
+            },
+            {
+                "course_staff_only": false,
+                "name": "Textbooks",
+                "type": "textbooks"
+            },
+            {
+                "course_staff_only": false,
+                "name": "Discussion",
+                "type": "discussion"
+            },
+            {
+                "course_staff_only": false,
+                "is_hidden": true,
+                "name": "Wiki",
+                "type": "wiki"
+            },
+            {
+                "course_staff_only": false,
+                "name": "Progress",
+                "type": "progress"
+            }
+        ]
+    }
+}

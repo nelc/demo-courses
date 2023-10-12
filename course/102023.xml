@@ -1,0 +1,4 @@
+<course cert_html_view_enabled="true" course_image="python.png" display_name="Intoduction to the developing with python" end="2023-11-30T03:30:00+00:00" enrollment_end="2023-10-24T01:00:00+00:00" enrollment_start="2023-10-11T00:00:00+00:00" graceperiod="" instructor_info="{&quot;instructors&quot;: []}" language="en" learning_info="[]" minimum_grade_credit="0.8" start="2023-10-11T00:00:00+00:00">
+  <chapter url_name="25a201bd84a745e98b131becd9129465"/>
+  <wiki slug="edunext.PYINT.102023"/>
+</course>

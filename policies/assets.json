@@ -1,0 +1,26 @@
+{
+    "python.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "PYINT",
+            "name": "python.png",
+            "org": "edunext",
+            "revision": null,
+            "run": "102023",
+            "tag": "c4x"
+        },
+        "displayname": "python.png",
+        "filename": "asset-v1:edunext+PYINT+102023+type@asset+block@python.png",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "edunext",
+            "PYINT",
+            "thumbnail",
+            "python-png.jpg",
+            null
+        ]
+    }
+}
