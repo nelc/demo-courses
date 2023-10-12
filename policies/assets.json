@@ -1,0 +1,43 @@
+{
+    "George_Orwell_1984.pdf": {
+        "contentType": "application/pdf",
+        "content_son": {
+            "category": "asset",
+            "course": "en10",
+            "name": "George_Orwell_1984.pdf",
+            "org": "edunext",
+            "revision": null,
+            "run": "102023",
+            "tag": "c4x"
+        },
+        "displayname": "George Orwell 1984.pdf",
+        "filename": "asset-v1:edunext+en10+102023+type@asset+block@George_Orwell_1984.pdf",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "english.jpeg": {
+        "contentType": "image/jpeg",
+        "content_son": {
+            "category": "asset",
+            "course": "en10",
+            "name": "english.jpeg",
+            "org": "edunext",
+            "revision": null,
+            "run": "102023",
+            "tag": "c4x"
+        },
+        "displayname": "english.jpeg",
+        "filename": "asset-v1:edunext+en10+102023+type@asset+block@english.jpeg",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "edunext",
+            "en10",
+            "thumbnail",
+            "english-jpeg.jpg",
+            null
+        ]
+    }
+}

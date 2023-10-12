@@ -1,0 +1,4 @@
+<course advanced_modules="[&quot;scorm&quot;]" cert_html_view_enabled="true" course_image="english.jpeg" display_name="English" end="2024-10-12T00:00:00+00:00" enrollment_end="2023-11-10T00:00:00+00:00" enrollment_start="2023-10-12T00:00:00+00:00" graceperiod="" instructor_info="{&quot;instructors&quot;: []}" language="en" learning_info="[]" minimum_grade_credit="0.8" pdf_textbooks="[{&quot;tab_title&quot;: &quot;1984 - George Orwell&quot;, &quot;chapters&quot;: [{&quot;title&quot;: &quot;1&quot;, &quot;url&quot;: &quot;/static/George_Orwell_1984.pdf&quot;}], &quot;id&quot;: &quot;1984_-_George_Orwell&quot;}]" start="2023-10-12T00:00:00+00:00">
+  <chapter url_name="694add4a236345e485ad0b90ed980362"/>
+  <wiki slug="edunext.en10.102023"/>
+</course>
