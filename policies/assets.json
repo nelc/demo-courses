@@ -1,0 +1,26 @@
+{
+    "math.jpeg": {
+        "contentType": "image/jpeg",
+        "content_son": {
+            "category": "asset",
+            "course": "mt02",
+            "name": "math.jpeg",
+            "org": "edunext",
+            "revision": null,
+            "run": "102023",
+            "tag": "c4x"
+        },
+        "displayname": "math.jpeg",
+        "filename": "asset-v1:edunext+mt02+102023+type@asset+block@math.jpeg",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "edunext",
+            "mt02",
+            "thumbnail",
+            "math-jpeg.jpg",
+            null
+        ]
+    }
+}
